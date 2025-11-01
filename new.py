@@ -1,0 +1,1 @@
+a = "new word started"
